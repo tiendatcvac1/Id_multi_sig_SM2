@@ -1,6 +1,6 @@
 streamlit
-docx
+python-docx
 coincurve
-secrets
-hashlib
+
+
 
