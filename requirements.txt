@@ -1,0 +1,8 @@
+streamlit
+docx
+coincurve
+secrets
+time
+hashlib
+datetime
+io
